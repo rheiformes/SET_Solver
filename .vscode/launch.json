@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SetSolver",
+            "request": "launch",
+            "mainClass": "src.SetSolver",
+            "projectName": "SET_Solver_52e76885"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetSolver",
+            "request": "launch",
+            "mainClass": "SetSolver",
+            "classPaths": [
+                "lib/jsoup-1.14.3.jar",
+                "bin"
+            ]
+        }
+    ]
+}
